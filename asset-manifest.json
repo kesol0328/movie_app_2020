@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kesol0328/movie_app_2020/static/css/main.af0aa20a.chunk.css",
+    "main.js": "/kesol0328/movie_app_2020/static/js/main.4603e86f.chunk.js",
+    "main.js.map": "/kesol0328/movie_app_2020/static/js/main.4603e86f.chunk.js.map",
+    "runtime-main.js": "/kesol0328/movie_app_2020/static/js/runtime-main.5c6d4070.js",
+    "runtime-main.js.map": "/kesol0328/movie_app_2020/static/js/runtime-main.5c6d4070.js.map",
+    "static/js/2.67e82d3c.chunk.js": "/kesol0328/movie_app_2020/static/js/2.67e82d3c.chunk.js",
+    "static/js/2.67e82d3c.chunk.js.map": "/kesol0328/movie_app_2020/static/js/2.67e82d3c.chunk.js.map",
+    "index.html": "/kesol0328/movie_app_2020/index.html",
+    "static/css/main.af0aa20a.chunk.css.map": "/kesol0328/movie_app_2020/static/css/main.af0aa20a.chunk.css.map",
+    "static/js/2.67e82d3c.chunk.js.LICENSE.txt": "/kesol0328/movie_app_2020/static/js/2.67e82d3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c6d4070.js",
+    "static/js/2.67e82d3c.chunk.js",
+    "static/css/main.af0aa20a.chunk.css",
+    "static/js/main.4603e86f.chunk.js"
+  ]
+}
